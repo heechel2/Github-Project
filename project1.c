@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void f1();
-int main()
+int main()	
 {
 	f1();
 	return 0;
