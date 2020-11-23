@@ -1,1 +1,1 @@
-시스템 프로그래밍 Github 실습
+SystemProgrmming course Github practice
