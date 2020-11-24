@@ -11,3 +11,8 @@ void f1()
 {
 	printf("first commit!\n");
 }
+
+void f2()
+{
+	printf("jongmin!"\n);
+}
