@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void f1();
+void f4();
 void f2();
 void f3();
 int main()	
@@ -15,6 +16,10 @@ void f1()
 	printf("first commit!\n");
 }
 
+
+void f4(){
+	printf("hello my name is woojin jun\n");
+}
 void f2()
 {
 	printf("hello my name is seongjin kang\n");
